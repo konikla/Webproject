@@ -15,14 +15,14 @@
           <li><a href="#">Home</a></li>
           <li><a href="#">About</a></li>
           <li><a href="#">Portfolio</a></li>
-          <li><a href="#">Login</a></li>
+          <li><a href="http://users.metropolia.fi/~mikkooke/test.html/login.html">Login</a></li>
       </ul>
   </header> 
-  
+
  <div class="widget center">
   <div class="blur"></div>
   <div class="text center">
-    <h1 class="">Jeajeeeee</h1>
+    <h1>Jeajeeeee</h1>
     <p>Tähänkin jotain tekstiä.</p>
   </div>
 </div>
@@ -33,21 +33,21 @@
     <div class="info">
       <h1>Calorie Counter</h1>
       <p>We count your calories and plan your diet</p>
-      <a href="Kalor"><button>Read More</button> </a>
+      <button>Read More</button>
     </div>
   </div>
   <div class="card"><img src="success"  style="z-index: 1">
     <div class="info">
       <h1>Progress</h1>
       <p>Follow your progress and reach your goals</p>
-      <a href="Kalor"><button>Read More</button> </a>
+      <a href="http://users.metropolia.fi/~mikkooke/test.html/progress.html"><button>Read More</button> </a>
     </div>
   </div>
   <div class="card"><img src="gym"  style="z-index: 1">
     <div class="info">
       <h1>Training</h1>
       <p>Training hints and tips</p>
-      <a href="Kalor"><button>Read More</button> </a>
+      <button>Read More</button>
     </div>
   </div>
 </div>
