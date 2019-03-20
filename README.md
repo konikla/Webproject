@@ -1,2 +1,2 @@
-# Ryhmä 1 Webproject FaTlEsS
+# Ryhmä 1 Webproject FatLess
 Spagettikoodit
